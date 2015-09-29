@@ -2,4 +2,4 @@
 
 ## Description
 
-Data and graphs on male and female salaries compared to different factors is shown in the included ipython notebook.
+Data and graphs on male and female professors' salaries compared to different factors is shown in the included ipython notebook.
